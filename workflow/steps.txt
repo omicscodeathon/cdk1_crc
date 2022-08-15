@@ -4,8 +4,9 @@ Steps: [Convert the steps into workflow diagram (include tools for each step) an
 . Determine drug-likeness of ligands using SwissADME
 . Search and download as a .pdb file the crystallographic 3D structure of Cdk1 (4Y72)
 . Prepare protein using Protein preparation wizard of software (add hydrogen bonds, remove water molecules above 5A, assign bonds etc)
-. Determine active site of protein using receptor grid 
-.
-.
-.
-.
+. Determine binding pocket of protein using receptor grid generation feature
+. Perform docking of optimized protein-ligand complex and validate
+. Determine MM-GBSA of docked complex using VSGB and OPLS3 field force
+. Perform molecular dynamics simulation on AceCloud 
+. Perform steps 8 - 10 for remaining ligands to determine best scoring docked complex
+  Present results

@@ -9,4 +9,4 @@ Steps: [Convert the steps into workflow diagram (include tools for each step) an
 . Determine MM-GBSA of docked complex using VSGB and OPLS3 field force
 . Perform molecular dynamics simulation on AceCloud 
 . Perform steps 8 - 10 for remaining ligands to determine best scoring docked complex
-  Present results
+  Present and interpret results

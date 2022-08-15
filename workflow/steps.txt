@@ -1,6 +1,6 @@
 Steps: [Convert the steps into workflow diagram (include tools for each step) and update README.md]
 . Search and download public databases (PubChem) for ligands as potential inhibitors
-. Import into Schrodinger suite releasse 2018-4 for ligand preparation using LigPrep wizard of software
+. Import into Schrodinger suite releasse 2018-4 (Maestro 11.8) for ligand preparation using LigPrep wizard of software
 . Determine drug-likeness of ligands using SwissADME
 . Search and download as a .pdb file the crystallographic 3D structure of Cdk1 (4Y72)
 . Prepare protein using Protein preparation wizard of software (add hydrogen bonds, remove water molecules above 5A, assign bonds etc)

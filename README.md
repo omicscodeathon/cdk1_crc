@@ -1,4 +1,6 @@
-# In-silico Identification of CDK1 Inhibitors in Colorectal Cancer
+# ***In silico*** identification of CDK1 inhibitors for treating colorectal cancer
+
+
 
 ## Table of Contents
 - [Introduction](#Introduction)
@@ -14,17 +16,25 @@
 
 ## Introduction
 
-- **
-- **
+- 
+- 
 
 ## Objective of the study
+- 
 
 
 ## Methodology
 
+
+
 ## Results
+-
+-
+-
+
 
 ## Conclusion
+-
 
 ## Team 
 - [Uchechukwu](https://github.com/uchechibuzo)
@@ -36,9 +46,11 @@
 
 
 ## Acknowledgment
+- We thank **[African Society for Bioinformatics and Computational Biology (ASBCB)](https://www.asbcb.org/)** and **The National Institutes of Health Office of Data Science Strategy** for organizing the ***ASBCB Omics Codeathon*** providing the required support and resources.
 
 
 ## References
+
 
 ## License
 

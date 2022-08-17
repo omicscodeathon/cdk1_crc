@@ -42,4 +42,4 @@
 
 ## License
 
-
+Licensed under MIT License - Copyright (c) 2022 omicscodeathon (Refer LICENSE file for more details)

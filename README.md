@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Objective of the study](#Objective)
+- [Objective](#Objective)
 - [Methodology](#Methodology)
 - [Results](#Results)
 - [Conclusion](#Conclusion)
@@ -19,7 +19,7 @@
 - 
 - 
 
-## Objective of the study
+## Objective
 - 
 
 
@@ -42,7 +42,7 @@
 - [Ojochenemi Enejoh](https://github.com/chennymee)
 - [Pauline Gachanja](https://github.com/paulinegachanja)
 - [Shamim Osata](https://github.com/osatashamim)
-- [Rudolph Serage](https://github.com/osatashamim)
+- [Rudolph Serage](https://github.com/)
 - [Pranavathiyani G](https://github.com/pranavathiyani)
 
 

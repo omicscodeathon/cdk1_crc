@@ -38,7 +38,7 @@
 
 ## Team 
 - [Uchechukwu](https://github.com/uchechibuzo)
-- [Halimat Chison Atanda](https://github.com/chisomgold)
+- [Halimat Chisom Atanda](https://github.com/chisomgold)
 - [Ojochenemi Enejoh](https://github.com/chennymee)
 - [Pauline Gachanja](https://github.com/paulinegachanja)
 - [Shamim Osata](https://github.com/osatashamim)

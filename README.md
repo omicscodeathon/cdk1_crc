@@ -1,4 +1,4 @@
-# ***In silico*** identification of CDK1 inhibitors for treating colorectal cancer
+# ***In silico*** identification of CDK1 inhibitors in colorectal cancer
 
 
 

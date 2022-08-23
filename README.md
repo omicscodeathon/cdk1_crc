@@ -42,7 +42,7 @@
 - [Ojochenemi Enejoh](https://github.com/chennymee)
 - [Pauline Gachanja](https://github.com/paulinegachanja)
 - [Shamim Osata](https://github.com/osatashamim)
-- [Rudolph Serage](https://github.com/)
+- [Kenneth Okolo](https://github.com/kennethokolo)
 - [Pranavathiyani G](https://github.com/pranavathiyani)
 
 

@@ -26,7 +26,7 @@
 
 
 ## Methodology
-![Workflow](/main/figures/Workflow.jpeg)
+![Workflow](Workflow.jpeg)
 
 
 ## Results

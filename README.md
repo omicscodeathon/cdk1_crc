@@ -36,7 +36,7 @@
 
 
 ## Conclusion
--
+- The findings from the study suggest that the identified natural compounds could act as potential inhibitors against CDK1 for developing new therapeutics for colorectal cancer.
 
 ## Team 
 - [Uchechukwu Chibuzo Ogbodo](https://github.com/uchechibuzo)

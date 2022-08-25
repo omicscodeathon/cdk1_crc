@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Objective](#Objective)
+- [Objectives](#Objectives)
 - [Methodology](#Methodology)
 - [Results](#Results)
 - [Conclusion](#Conclusion)
@@ -19,8 +19,10 @@
 - 
 - 
 
-## Objective
-- 
+## Objectives
+- To screen natural compounds against CDK1 and identify potential inhibitors using in silico approach
+- To study the stability of the docked complexes using molecular dynamics simulation
+
 
 
 ## Methodology
